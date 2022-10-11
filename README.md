@@ -1,4 +1,3 @@
-![](https://scontent.fdac138-1.fna.fbcdn.net/v/t1.6435-9/66498309_2288231574593231_5552162720993771520_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=e3f864&_nc_ohc=TdhkJyUjToUAX-F_e_Q&_nc_ht=scontent.fdac138-1.fna&oh=00_AT-0vcV53OsFVciseiCrAdlHAA-sKYbsszoqrF_AJDEXsg&oe=636BBE3E)
 ### Hi there 👋, my name is Arif Shahriyar Nader
 
 I always love learning new things...I enjoy being challenged and engaging with projects that require me to work outside my comfort and knowledge set, as continuing to learn new languages and development techniques are important to me and the success of any organization...Currently, I'm Working in Mern Stack Development...I enjoy building web applications with
