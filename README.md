@@ -2,7 +2,7 @@
 <h3 align="center">A passionate developer from Bangladesh</h3>
 
 
-- 👨‍💻 All of my projects are available at [[https://arifshahriyarnader.github.io/](https://arifshahriyarnader.netlify.app/)]
+- 👨‍💻 All of my projects are available at [[(https://arifshahriyarnader.netlify.app/)](https://arifshahriyarnader.netlify.app/)]
 
 - 📫 How to reach me **naderarifshahriyar@gmail.com**
 
