@@ -10,7 +10,7 @@
 <a href="https://stackoverflow.com/users/10275447/arif-shahriyar-nader" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="10275447/arif-shahriyar-nader" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">GitHub Stats:</h3>
+### My GitHub Activity
 <p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=ArifShahriyarNader&show_icons=true&theme=default" alt="Arif Shahriyar Nader's GitHub stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/activities?username=ArifShahriyarNader&theme=dracula" alt="Arif Shahriyar Nader's GitHub Activity" />
 </p>
