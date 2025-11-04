@@ -10,7 +10,9 @@
 </p>
 
 
-<p align="center">
- <img src="https://raw.githubusercontent.com/ArifShahriyarNader/ArifShahriyarNader/main/github-activity.png" alt="GitHub activity overview" />
-</p>
+![Arif Shahriyar Nader's GitHub Stats](https://github-readme-stats.vercel.app/api?username=arifshahriyarnader&show_icons=true&theme=radical)](https://github.com/arifshahriyarnader)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arifshahriyarnader&layout=compact&theme=radical)](https://github.com/arifshahriyarnader)
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=arifshahriyarnader&theme=radical)](https://git.io/streak-stats)
 
