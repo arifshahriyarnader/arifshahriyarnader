@@ -11,6 +11,6 @@
 
 
 <p align="center">
- <img src="https://raw.githubusercontent.com/ArifShahriyarNader/ArifShahriyarNader/main/contribution-graph.png" alt="GitHub contribution types" />
+ <img src="https://raw.githubusercontent.com/ArifShahriyarNader/ArifShahriyarNader/main/github-activity.png" alt="GitHub activity overview" />
 </p>
 
